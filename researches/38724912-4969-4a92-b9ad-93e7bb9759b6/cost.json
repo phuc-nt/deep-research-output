@@ -1,0 +1,37 @@
+{
+  "task_id": "38724912-4969-4a92-b9ad-93e7bb9759b6",
+  "updated_at": "2025-03-10T14:12:42.275367",
+  "cost_info": {
+    "total_cost_usd": 0.00420065,
+    "llm_cost_usd": 0.0032248499999999996,
+    "search_cost_usd": 0.0009758000000000002,
+    "total_tokens": 14942,
+    "total_input_tokens": 6794,
+    "total_output_tokens": 8148,
+    "total_llm_requests": 7,
+    "total_search_requests": 6,
+    "model_breakdown": {
+      "gpt-4o-mini": {
+        "cost_usd": 0.0032248499999999996,
+        "requests": 7,
+        "input_tokens": 6251,
+        "output_tokens": 3812
+      }
+    },
+    "provider_breakdown": {
+      "perplexity": {
+        "cost_usd": 0.0009758000000000002,
+        "requests": 6,
+        "input_tokens": 543,
+        "output_tokens": 4336
+      }
+    },
+    "last_updated": "2025-03-10T21:12:42.273151"
+  },
+  "task_info": {
+    "query": "Tác hại của mạng xã hỗi tới kỹ năng tranh luận",
+    "topic": "Tác hại của mạng xã hội tới kỹ năng tranh luận",
+    "status": "completed",
+    "created_at": "2025-03-10T14:10:52.011519"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "task_id": "a5f44a2d-346d-4871-aadd-aa5a11b9f261",
+  "updated_at": "2025-03-10T14:32:02.039292",
+  "cost_info": {
+    "total_cost_usd": 0.007285699999999999,
+    "llm_cost_usd": 0.006334499999999999,
+    "search_cost_usd": 0.0009512000000000001,
+    "total_tokens": 23259,
+    "total_input_tokens": 11156,
+    "total_output_tokens": 12103,
+    "total_llm_requests": 9,
+    "total_search_requests": 6,
+    "model_breakdown": {
+      "gpt-4o-mini": {
+        "cost_usd": 0.006334499999999999,
+        "requests": 9,
+        "input_tokens": 10594,
+        "output_tokens": 7909
+      }
+    },
+    "provider_breakdown": {
+      "perplexity": {
+        "cost_usd": 0.0009512000000000001,
+        "requests": 6,
+        "input_tokens": 562,
+        "output_tokens": 4194
+      }
+    },
+    "last_updated": "2025-03-10T21:32:02.034493"
+  },
+  "task_info": {
+    "query": "Tác hại của hài nhảm tới kỹ năng tranh luận nghiêm túc",
+    "topic": "Tác hại của hài nhảm tới kỹ năng tranh luận nghiêm túc",
+    "status": "completed",
+    "created_at": "2025-03-10T14:29:01.324177"
+  }
+}
